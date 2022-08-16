@@ -11,7 +11,6 @@ public class PrefixPostfix {
 		System.out.println(numC);
 		System.out.println(numB);
 		 
-
 	}
 
 }
