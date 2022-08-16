@@ -14,7 +14,8 @@ public class SimpleString {
 		
 		String name1="Rahul ";
 		String name2="Rishi ";
-		String storeName=name1.concat(name2);
+		String name3="Rajesh ";
+		String storeName=name1.concat(name2.concat(name3));
 	    System.out.println(storeName);	
 		
 
